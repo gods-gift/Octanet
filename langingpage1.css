@@ -1,0 +1,90 @@
+.min-h-screen{
+    min-height:100vh;
+}
+
+.bg-color{
+    background-color:blueviolet ;
+}
+
+.mx_auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.items-centre{
+    align-items:center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-center{
+    text-align: center;
+}
+
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    font-size: xx-large;
+}
+
+.my-2{
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 20px;
+}
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 150px;
+}
+
+.flex{
+    display:flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.section1{
+    height: 110vh;
+}
+
+.section2{
+    height: 50vh;
+}
+.section3{
+    justify-items: center;
+    padding-left:15%;
+    width: 70%;
+    height: 50vh;
+}
+.text-blue{
+    color: rgb(19, 19, 194);;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.section3 table{
+    width: 70vw;
+    padding: 1rem;
+    font-size: x-large;
+}
+
+.text-start{
+    border-bottom: 1px solid black;
+    padding: 2px;
+}
+
+.section3 th{
+    border-bottom: 1px solid black;
+    padding: 2px;
+}
+
+.section3 td{
+    border-bottom: 1px solid black;
+    padding: 2px;
+}
+
